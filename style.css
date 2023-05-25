@@ -2,4 +2,16 @@
     --branco-principal: #ffffff;
     --cinza-secundario: #c0c0c0;
     --botão-azul: #167EF7;
+    --cor-de-fundo: #00030C;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var (--branco-principal);
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
 }
